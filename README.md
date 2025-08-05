@@ -1,48 +1,32 @@
 # Dados-de-adolescentes-que-utilizam-a-internet-diariamente
-Dados sobre uso da internet por adolescentes que utilizam a internet diariamente. Dados tratados no Excel e código em linguagem R para análise de dados.
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
+[![licensebuttons by](https://licensebuttons.net/l/by/3.0/88x31.png)](https://creativecommons.org/licenses/by/4.0)
 
-Este repositório contém os dados, códigos e análises desenvolvidos no Trabalho de Conclusão de Curso intitulado **"XXX"**, realizado no âmbito do curso de Gestão da Informação. O objetivo deste estudo é XXX.
+## Descrição
+Este repositório contém os dados tratados no Excel, códigos em linguagem R e análises estatísticas desenvolvidas no Trabalho de Conclusão de Curso (TCC) intitulado **"ANÁLISE ESTATÍSTICA DE FATORES DE USO DA INTERNET ASSOCIADOS AO USO PROBLEMÁTICO DA INTERNET ENTRE ADOLESCENTES BRASILEIROS"**, realizado no âmbito do curso de Gestão da Informação na UFPR. O objetivo deste estudo é **desenvolver uma análise estatística para identificar padrões e correlações sobre dados em relação ao uso excessivo da internet entre a população de 11 a 17 anos, fornecendo subsídios para pesquisas e intervenções voltadas à promoção do bem-estar**.
 
-Conteúdo do Repositório
+> O TCC está disponível para leitura na integra [aqui](https://acervodigital.ufpr.br/xmlui/handle/1884/41065).
 
-- dados: Diretório contendo as tabelas extraídas e processadas para análise.
-- scripts: Códigos desenvolvidos em R para realizar a análise estatística.
-- resultados: Relatórios e visualizações gerados a partir dos dados e scripts.
+> Os dados da TIC KIDS 2024 foram utilizados como dados secundários e estão disponíveis [aqui](http://cetic.br/pt/arquivos/kidsonline/2024/criancas/#bases).
 
-Como Utilizar
+## Instrução de Instalação
 
-1. Pré-requisitos:
-   - Instale o [R](https://www.r-project.org/) e o [RStudio](https://posit.co/downloads/).
-   - Certifique-se de ter as bibliotecas necessárias instaladas. Veja as dependências na seção [Bibliotecas Necessárias](#bibliotecas-necessárias).
+### Pré Requsitos
+- Instale o [R](https://www.r-project.org/) e o [RStudio](https://posit.co/downloads/).
+   - Instale as bibliotecas necessárias no RStudio usando o código:
 
-2. Executar os Scripts:
-   - Navegue até o diretório "scripts" e execute os arquivos R para reproduzir os resultados.
-   - Certifique-se de que os arquivos de dados no diretório "XXX" estão configurados corretamente.
-
-3. Bibliotecas Necessárias
-
-Certifique-se de instalar as seguintes bibliotecas no R antes de executar os scripts:
-
+```
 install.packages(c("readxl", "dplyr", "tidyverse", "ggplot2", "ggpubr", "corrplot", "PerformanceAnalytics", "broom"))
+```
 
-4. Estrutura dos Dados
+## Instruções de Uso
+1. Baixe a planilha e o código R em seu computador.
+2. No código, ajuste as linhas 96 e 99 para que o caminho do arquivo corresponda ao local onde você salvou a planilha.
+3. Execute o código em sua totalidade e em ordem, da primeira à última linha, e os resultados serão processados corretamente.
 
-Os dados utilizados neste projeto foram extraídos da seguinte fonte:
-- TIC KIDS 2024 – Disponível [aqui](http://cetic.br/pt/arquivos/kidsonline/2024/criancas/#bases).
-
-Principais Variáveis
-- XXX.
-- XXX.
-- XXX.
-
-5. Resultados
-
-Os resultados indicam correlações significativas entre XXXX.
-
----
-
-Contato
+## Contribuições e Contribuidores
+O estudo foi desenvolvido pelo gestor da informação, Felipe dos Santos de Oliveira (**[LinkedIn](https://www.linkedin.com/in/felipe-so/)** e **[Lattes](https://buscatextual.cnpq.br/buscatextual/visualizacv.do;jsessionid=616D88E0E7B800C95B898C74B91F877F.buscatextual_0)**).
 
 Caso tenha dúvidas ou sugestões, entre em contato através do GitHub ou envie um e-mail para: **[dos.felipe@ufpr.br](mailto:dos.felipe@ufpr.br)**.
-
-Se precisar de ajustes ou desejar adicionar mais informações, posso modificar conforme sua necessidade!
