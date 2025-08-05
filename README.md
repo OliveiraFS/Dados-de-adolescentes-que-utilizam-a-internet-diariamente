@@ -9,7 +9,7 @@ Este repositório contém os dados tratados no Excel, códigos em linguagem R e 
 
 > O TCC está disponível para leitura na integra [aqui](https://acervodigital.ufpr.br/xmlui/handle/1884/41065).
 
-> Os dados da TIC KIDS 2024 foram utilizados como dados secundários e estão disponíveis [aqui](http://cetic.br/pt/arquivos/kidsonline/2024/criancas/#bases).
+> Os dados da TIC Kids Online Brasil - 2024 foram utilizados como dados secundários e estão disponíveis [aqui](http://cetic.br/pt/arquivos/kidsonline/2024/criancas/#bases).
 
 ## Instrução de Instalação
 
