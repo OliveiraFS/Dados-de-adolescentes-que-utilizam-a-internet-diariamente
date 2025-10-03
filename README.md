@@ -5,9 +5,9 @@
 [![licensebuttons by](https://licensebuttons.net/l/by/3.0/88x31.png)](https://creativecommons.org/licenses/by/4.0)
 
 ## Descrição
-Este repositório contém os dados tratados no Excel, códigos em linguagem R e análises estatísticas desenvolvidas no Trabalho de Conclusão de Curso (TCC) intitulado **"ANÁLISE ESTATÍSTICA DE FATORES DE USO DA INTERNET ASSOCIADOS AO USO PROBLEMÁTICO DA INTERNET ENTRE ADOLESCENTES BRASILEIROS"**, realizado no âmbito do curso de Gestão da Informação na UFPR. O objetivo deste estudo é **desenvolver uma análise estatística para identificar padrões e correlações sobre dados em relação ao uso excessivo da internet entre a população de 11 a 17 anos, fornecendo subsídios para pesquisas e intervenções voltadas à promoção do bem-estar**.
+Este repositório contém os dados tratados no Excel, códigos em linguagem R e análises estatísticas desenvolvidas no Trabalho de Conclusão de Curso (TCC) intitulado **"FATORES DE RISCO NO USO DA INTERNET: UMA ANÁLISE ESTATÍSTICA SOBRE EFEITOS ADVERSOS EM ADOLESCENTES BRASILEIROS"**, realizado no âmbito do curso de Gestão da Informação na UFPR. O objetivo deste estudo é **desenvolver uma análise estatística para identificar padrões e correlações sobre dados em relação ao uso excessivo da internet entre a população brasileira de 11 a 17 anos, fornecendo subsídios para pesquisas e intervenções voltadas à promoção do bem-estar**.
 
-> O TCC está disponível para leitura na integra [aqui](https://acervodigital.ufpr.br/xmlui/handle/1884/41065).
+> O TCC está disponível para leitura na integra [aqui](https://acervodigital.ufpr.br/xmlui/handle/1884/41065) (**após a defesa prevista para dezembro de 2025**).
 
 > Os dados da TIC Kids Online Brasil - 2024 foram utilizados como dados secundários e estão disponíveis [aqui](http://cetic.br/pt/arquivos/kidsonline/2024/criancas/#bases).
 
@@ -23,7 +23,7 @@ install.packages(c("readxl", "dplyr", "tidyverse", "ggplot2", "ggpubr", "corrplo
 
 ## Instruções de Uso
 1. Baixe a planilha e o código R em seu computador.
-2. No código, ajuste as linhas 96 e 99 para que o caminho do arquivo corresponda ao local onde você salvou a planilha.
+2. No código, ajuste as linhas 99 e 101 para que o caminho do arquivo corresponda ao local onde você salvou a planilha.
 3. Execute o código em sua totalidade e em ordem, da primeira à última linha, e os resultados serão processados corretamente.
 
 ## Contribuições e Contribuidores
