@@ -22,7 +22,7 @@ install.packages(c("readxl", "dplyr", "tidyverse", "ggplot2", "ggpubr", "corrplo
 ```
 
 ## Instruções de Uso
-1. Baixe a planilha e o código R em seu computador [aqui](https://github.com/OliveiraFS/Dados-de-adolescentes-que-utilizam-a-internet-diariamente/blob/main/databases.zip).
+1. Baixe [a planilha e o código R](https://github.com/OliveiraFS/Dados-de-adolescentes-que-utilizam-a-internet-diariamente/blob/main/databases.zip) em seu computador.
 2. No código, ajuste as linhas 96 e 98 para que o caminho do arquivo corresponda ao local onde você salvou a planilha.
 3. Execute o código em sua totalidade e em ordem, da primeira à última linha, e os resultados serão processados corretamente.
 
