@@ -5,7 +5,7 @@
 [![licensebuttons by](https://licensebuttons.net/l/by/3.0/88x31.png)](https://creativecommons.org/licenses/by/4.0)
 
 ## Descrição
-Este repositório contém os dados tratados no Excel, códigos em linguagem R e análises estatísticas desenvolvidas no Trabalho de Conclusão de Curso (TCC) intitulado **"FATORES DE RISCO NO USO DA INTERNET: UMA ANÁLISE ESTATÍSTICA SOBRE EFEITOS ADVERSOS EM ADOLESCENTES BRASILEIROS"**, realizado no âmbito do curso de Gestão da Informação na UFPR. O objetivo deste estudo é **desenvolver uma análise estatística para identificar padrões e correlações sobre dados em relação ao uso excessivo da internet entre a população brasileira de 11 a 17 anos, fornecendo subsídios para pesquisas e intervenções voltadas à promoção do bem-estar**.
+Este repositório contém os dados tratados no Excel, códigos em linguagem R e análises estatísticas desenvolvidas no Trabalho de Conclusão de Curso (TCC) intitulado **"FATORES DE RISCO NO USO DA INTERNET: UMA ANÁLISE ESTATÍSTICA SOBRE EFEITOS ADVERSOS EM ADOLESCENTES BRASILEIROS"**, realizado no âmbito do curso de Gestão da Informação na UFPR. O objetivo deste estudo é **desenvolver uma análise estatística para identificar padrões e correlações acerca de dados sobre fatores de risco relacionados ao uso da internet e os efeitos adversos deste uso entre a população brasileira de 11 a 17 anos, fornecendo subsídios para pesquisas e intervenções voltadas à promoção do bem-estar digital**.
 
 > O TCC está disponível para leitura na integra [aqui](https://acervodigital.ufpr.br/xmlui/handle/1884/41065) (**após a defesa prevista para dezembro de 2025**).
 
