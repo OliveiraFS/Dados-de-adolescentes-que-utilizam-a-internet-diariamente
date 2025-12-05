@@ -29,4 +29,4 @@ install.packages(c("readxl", "dplyr", "tidyverse", "ggplot2", "ggpubr", "corrplo
 ## Contribuições e Contribuidores
 O estudo foi desenvolvido pelo gestor da informação, Felipe dos Santos de Oliveira (**[LinkedIn](https://www.linkedin.com/in/felipe-so/)** e **[Lattes](https://buscatextual.cnpq.br/buscatextual/visualizacv.do;jsessionid=616D88E0E7B800C95B898C74B91F877F.buscatextual_0)**).
 
-Caso tenha dúvidas ou sugestões, entre em contato através do GitHub ou envie um e-mail para: **[dos.felipe@ufpr.br](mailto:dos.felipe@ufpr.br)** ou **[forlok307@gmail.br](mailto:forlok307@gmail.br)**.
+Caso tenha dúvidas ou sugestões, entre em contato através do GitHub ou envie um e-mail para: **[dos.felipe@ufpr.br](mailto:dos.felipe@ufpr.br)** ou **[forlok307@gmail.com.br](mailto:forlok307@gmail.com.br)**.
